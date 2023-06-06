@@ -1,0 +1,12 @@
+D:\Nand2Tetris\TournamentTracker\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.csproj.AssemblyReference.cache
+D:\Nand2Tetris\TournamentTracker\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nand2Tetris\TournamentTracker\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.AssemblyInfoInputs.cache
+D:\Nand2Tetris\TournamentTracker\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.AssemblyInfo.cs
+D:\Nand2Tetris\TournamentTracker\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.csproj.CoreCompileInputs.cache
+D:\Nand2Tetris\TournamentTracker\TournamentTracker\TrackerLibrary\bin\Debug\net6.0\TrackerLibrary.deps.json
+D:\Nand2Tetris\TournamentTracker\TournamentTracker\TrackerLibrary\bin\Debug\net6.0\TrackerLibrary.dll
+D:\Nand2Tetris\TournamentTracker\TournamentTracker\TrackerLibrary\bin\Debug\net6.0\TrackerLibrary.pdb
+D:\Nand2Tetris\TournamentTracker\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.dll
+D:\Nand2Tetris\TournamentTracker\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\refint\TrackerLibrary.dll
+D:\Nand2Tetris\TournamentTracker\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.pdb
+D:\Nand2Tetris\TournamentTracker\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\ref\TrackerLibrary.dll
